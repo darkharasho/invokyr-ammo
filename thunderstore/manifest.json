@@ -1,0 +1,9 @@
+{
+    "name": "InvokyrAmmo",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/darkharasho/invokyr-ammo",
+    "description": "Adjust Invokyr's ammo: infinite shots or fuel, or a multiplier, for the hunter gun and the flamethrower. Host-authoritative; only the host needs it.",
+    "dependencies": [
+        "BepInEx-BepInExPack_IL2CPP-6.0.788"
+    ]
+}

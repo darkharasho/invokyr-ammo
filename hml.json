@@ -1,0 +1,16 @@
+{
+  "$schema": "https://hml-share.project96.workers.dev/v1/catalog/schema.json",
+  "schema": 1,
+  "mods": [
+    {
+      "id": "ammo",
+      "name": "InvokyrAmmo",
+      "description": "Infinite ammo or an ammo multiplier for Invokyr's hunter gun and flamethrower. Host-authoritative; only the host needs it.",
+      "games": [
+        "nexus-invokyr"
+      ],
+      "icon": "thunderstore/icon.png",
+      "readme": "thunderstore/README.md"
+    }
+  ]
+}
